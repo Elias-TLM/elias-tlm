@@ -43,7 +43,11 @@
   
 </details>  
 
+<h2>Statistics</h2>
 
+<a href="https://github.com/elias-tlm">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=elias-tlm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</a>
 
 Credits and Teacher: <a href="https://github.com/Noel-Schmidt">Noel Schmidt  
 
